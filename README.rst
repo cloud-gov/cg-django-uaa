@@ -7,3 +7,7 @@ as any user during development.
 
 For documentation, please visit `cg-django-uaa.readthedocs.io
 <http://cg-django-uaa.readthedocs.io/>`_.
+
+Prior to creating a pull request, please make sure you do the tests;
+see this `documentation
+<https://cg-django-uaa.readthedocs.io/en/latest/developing.html#running-tests>`_.
